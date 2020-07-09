@@ -7,7 +7,7 @@
 
 🎯 Focused on stacks NodeJS,ReactJS and React Native 
 
-## About me 
+## About me 🖊
 
 🖥 I always loved to use the computer, I started with 6 years old, I learned to read on the PC because I wanted to play an online game.
 
