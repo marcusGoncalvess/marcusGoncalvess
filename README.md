@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://i.imgur.com/KWtasMH.jpg">
+<img align="right" width="400" height="400" src="https://i.imgur.com/7GQmWjV.jpg">
 
 
 # Hi, I'm Marcus :man_technologist:
