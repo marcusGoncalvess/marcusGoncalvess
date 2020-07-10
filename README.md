@@ -22,7 +22,7 @@
 - :skateboard: I like to skateboarding
 
 
-## Social media :mailbox_with_no_mail:
+## Social :mailbox_with_no_mail:
 
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/marcus_goncalvezz)
