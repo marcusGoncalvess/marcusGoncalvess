@@ -13,7 +13,7 @@
 
 💥 In 2019 I started programming, I took many courses on web development and i really loved it
 
-🚀 I currently do GoStack by Rocketseat
+🚀 I've currently taken the Bootcamp GoStack by Rocketseat
 <br><br>
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
