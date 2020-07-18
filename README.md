@@ -18,7 +18,7 @@
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
 - :video_game: I love to play on PC
-- :gem: I do the fluency masters (course for learning English)
+- :gem: I'm on way to fluency in English
 - :skateboard: I like to skateboarding
 
 
