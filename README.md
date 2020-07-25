@@ -11,9 +11,9 @@
 
 🖥 I always loved to use the computer, I started with 6 years old, I learned to read on the PC because I wanted to play an online game.
 
-💥 In 2019 I started programming, I took many courses on web development and i really loved it
+💥 In 2019 I started programming, I took many courses on web development and i really loved it.
 
-🚀 I'm currently taking the Bootcamp GoStack by Rocketseat
+🚀 I'm currently taking the Bootcamp GoStack by Rocketseat.
 <br><br>
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
