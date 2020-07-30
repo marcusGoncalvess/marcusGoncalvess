@@ -3,7 +3,7 @@
 
 # Hi, I'm Marcus :man_technologist:
 
-:robot: Web development student
+:robot: Front-end Developer at Vnda Ecommerce
 
 🎯 Focused on stacks NodeJS,ReactJS and React Native 
 
