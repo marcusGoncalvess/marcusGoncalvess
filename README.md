@@ -25,5 +25,5 @@
 ## Contact :mailbox_with_no_mail:
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=Instagram&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/marcus_goncalvezz) <br>
-[![Gmail Badge](https://img.shields.io/badge/-MarcusGonalves-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus-goncalves@outlook.com.br)](mailto:tgmarinho@gmail.com) <br>
+[![Gmail Badge](https://img.shields.io/badge/-MarcusGonçalves-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcus-goncalves@outlook.com.br)](mailto:marcus-goncalves@outlook.com.br) <br>
 [![Linkedin Badge](https://img.shields.io/badge/-MarcusGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusgoncalvess/)](https://www.linkedin.com/in/marcusgoncalvess/) 
