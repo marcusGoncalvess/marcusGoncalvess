@@ -1,11 +1,11 @@
 <img align="right" width="400" height="400" src="https://i.imgur.com/7GQmWjV.jpg">
 
 
-# Hi, I'm Marcus :man_technologist:
+# Hi, I'm Marcus 👋
 
-:robot: Front-end Developer
+:man_technologist: Front-end Developer at VNDA E-commerce
 
-🎯 Focused on stacks NodeJS,ReactJS and React Native 
+🎯 Studying stacks NodeJS,ReactJS and React Native 
 
 ## About me 🖊
 
@@ -24,6 +24,6 @@
 
 ## Social :mailbox_with_no_mail:
 
-
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/marcus_goncalvezz)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/marcusgon%C3%A7alvess/)
+[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/marcusgon%C3%A7alvess/) <br>
+<strong>Email:</strong> marcus-goncalves@outlook.com.br
