@@ -3,7 +3,7 @@
 
 # Hi, I'm Marcus 👋
 
-:man_technologist: Front-end Developer at VNDA E-commerce
+:man_technologist: Front-end Developer at Vnda E-commerce
 
 🎯 Studying NodeJS, ReactJS, React Native & Typescript
 
