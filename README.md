@@ -5,7 +5,7 @@
 
 :man_technologist: Front-end Developer at VNDA E-commerce
 
-🎯 Studying stacks NodeJS,ReactJS and React Native 
+🎯 Studying NodeJS, ReactJS, React Native & Typescript
 
 ## About me 🖊
 
@@ -22,8 +22,8 @@
 - :skateboard: I like to skateboarding
 
 
-## Social :mailbox_with_no_mail:
+## Contact :mailbox_with_no_mail:
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/marcus_goncalvezz)
-[![Twitter URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/marcusgon%C3%A7alvess/) <br>
-<strong>Email:</strong> marcus-goncalves@outlook.com.br
+[![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=Instagram&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.instagram.com/marcus_goncalvezz) <br>
+[![Gmail Badge](https://img.shields.io/badge/-marcusgoncalves@outlook.com.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com) <br>
+[![Linkedin Badge](https://img.shields.io/badge/-MarcusGonçalves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcusgoncalvess/)](https://www.linkedin.com/in/marcusgoncalvess/) 
