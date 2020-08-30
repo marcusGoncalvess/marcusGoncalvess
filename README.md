@@ -15,7 +15,6 @@
 
 💥 In 2019 I started programming, I took many courses on web development and i really loved it.
 
-<br><br>
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
 - :video_game: I love to play on PC
