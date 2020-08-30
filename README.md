@@ -5,7 +5,9 @@
 
 :man_technologist: Front-end Developer at Vnda E-commerce
 
-🎯 Studying NodeJS, ReactJS, React Native & Typescript
+🚀 Student at Rocketseat (Bootcamp GoStack 13.0)
+
+🎯 Focused on NodeJS, ReactJS, React Native & Typescript
 
 ## About me 🖊
 
@@ -13,7 +15,6 @@
 
 💥 In 2019 I started programming, I took many courses on web development and i really loved it.
 
-🚀 Student at Rocketseat, Bootcamp GoStack
 <br><br>
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
