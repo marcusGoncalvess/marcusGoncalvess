@@ -3,7 +3,7 @@
 
 # Hi, I'm Marcus 👋
 
-:man_technologist: Front-end Developer at Vnda E-commerce
+:man_technologist: Front-end Developer
 
 🚀 Student at Rocketseat (Bootcamp GoStack 13.0)
 
