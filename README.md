@@ -11,7 +11,7 @@
 
 ## About me 🖊
 
-🖥 I always loved to use the computer, I started with 6 years old, I learned to read on the PC because I wanted to play an online game.
+🖥 I always loved to use the computer, I started with 7 years old, I learned to read on the PC because I wanted to play an online game.
 
 💥 In 2019 I started programming, I took many courses on web development and i really loved it.
 
