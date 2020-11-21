@@ -3,7 +3,7 @@
 
 # Hi, I'm Marcus 👋
 
-:man_technologist: Front-end Developer
+:man_technologist: Full-stack Developer
 
 🚀 Student at Rocketseat (Bootcamp GoStack 13.0)
 
