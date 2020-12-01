@@ -17,9 +17,7 @@
 
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
-- :video_game: I love to play on PC
 - :gem: I'm on way to fluency in English
-- :skateboard: I like to skateboarding
 
 
 ## Contact :mailbox_with_no_mail:
