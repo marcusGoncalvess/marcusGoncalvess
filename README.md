@@ -11,13 +11,14 @@
 
 ## About me 🖊
 
-🖥 I always loved to use the computer, I started with 7 years old, I learned to read on the PC because I wanted to play an online game.
+🖥 I always loved to use the computer, I started with 7 years old, I loved to play online games so I learned to read on the PC.
 
 💥 In 2019 I started programming, I took many courses on web development and i really loved it.
 
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
 - :gem: I'm on way to fluency in English
+- :boy: I have 18 years old
 
 
 ## Contact :mailbox_with_no_mail:
