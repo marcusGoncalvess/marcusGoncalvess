@@ -5,7 +5,7 @@
 
 :man_technologist: Full-stack Developer
 
-🚀 Student at Rocketseat (Bootcamp GoStack 13.0)
+🚀 Alumni at Rocketseat (Bootcamp GoStack 13.0)
 
 🎯 Focused on NodeJS, ReactJS, React Native & Typescript
 
