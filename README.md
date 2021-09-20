@@ -17,8 +17,7 @@
 
 ℹ More information:
 - :earth_americas: I'm from Porto Alegre - RS
-- :gem: I'm on way to fluency in English
-- :boy: I have 18 years old
+- :boy: I have 19 years old
 
 
 ## Contact :mailbox_with_no_mail:
