@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Marcus Gonçalves from Porto Alegre, RS, Brazil<br><br>-  💼 I’m working with JavaScript (NodeJS, ReactJS)<br>- 📚 I'm currently in advanced NodeJS training and learning devops concepts<br>-  🐱‍💻 I have a great interest in the area of information security<br>-  🎓 Graduating software engineer<br>-  🚀 Creating technology content for social networks<br>- ⚡ In my free time I like to play volleyball, play online and skate</p>
+<p align="left">I'm Marcus Gonçalves from Porto Alegre, RS, Brazil<br><br>-  💼 I’m working with TypeScript (Node, React)<br>- 📚 I'm currently in advanced NodeJS training and learning devops concepts<br>-  🐱‍💻 I have a great interest in the area of information security<br>-  🎓 Graduating software engineer<br>-  🚀 Creating technology content for social networks<br>- ⚡ In my free time I like to play volleyball, play online and skate</p>
 
 ###
 
